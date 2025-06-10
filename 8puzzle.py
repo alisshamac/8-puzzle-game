@@ -2,7 +2,6 @@
 #
 #
 #           Name: Cardona, Alissha Mae A.
-#           Section: WX2L
 #           Program: implements bfs, dfs, and A* search in 8-puzzle game. allows user to choose file for initial board
 #
 #           References:
